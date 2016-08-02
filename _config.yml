@@ -1,0 +1,28 @@
+name: macro
+favicon: null
+layout_spectrum: 0.501737993909046
+typography_spectrum: 0.29874474951066077
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3584341546520591
+  lightness: 0.5562565922737122
+  saturation: 0.17606438440270722
+  rhythmicContrast: 0.44106458965688944
+purpose: []
